@@ -26,20 +26,20 @@ description: >- # used by seo meta and the atom feed
 url: "https://detraced.org"
 
 github:
-  username:  # change to your GitHub username
+  username: DeTraced-Security # change to your GitHub username
 
-twitter:
-  username:  # change to your Twitter username
+# twitter:
+#   username:  # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: "DeTraced Security"
-  email: # change to your email address
+  email: slavetomints@protonmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - # https://twitter.com/username # change to your Twitter homepage
-    - # https://github.com/username # change to your GitHub homepage
+    # -  https://twitter.com/username # change to your Twitter homepage
+    - https://github.com/DeTraced-Security # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -119,7 +119,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: Slavetomints/DeTraced-Security # <gh-username>/<repo>
+    repo: DeTraced-Security/detraced-security.github.io # <gh-username>/<repo>
     repo_id: R_kgDOO_DuoA
     category: Comments
     category_id: DIC_kwDOO_DuoM4CrxSk
