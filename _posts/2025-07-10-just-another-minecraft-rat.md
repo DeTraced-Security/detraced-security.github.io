@@ -80,7 +80,7 @@ The main function of the malware is its ability to steal information from the vi
 	- Free Memory
 	- Processors
 - The `screenshot` command takes a screenshot of the screen and sends it back as a `.png` file.
-- `location` uses [https://api.ipify.org/?format=json](https://api.ipify.org/?format=json) to get the victim's IP address, and then subsequently uses that IP address to make a request to [http://ip-api.com/json/](http://ip-api.com/json/), which returns a multitude of information. The following information is sent back to the attacker:
+- `location` uses `https://api.ipify.org/?format=json` to get the victim's IP address, and then subsequently uses that IP address to make a request to `http://ip-api.com/json/`, which returns a multitude of information. The following information is sent back to the attacker:
 	- City
 	- Region
 	- Country
