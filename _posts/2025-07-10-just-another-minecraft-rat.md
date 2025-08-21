@@ -14,8 +14,8 @@ description: Cause why install just mods?
 author: slavetomints
 researchers: 
 - slavetomints
-- ashthetik
-- callmezombie
+- tr4ceang3l
+- akithecatearedmerc
 ---
 >In this blog post, we will discuss malware and malicious software. There will be screenshots of the code, as well as small snippets of the things that it does. It is your responsibility not to run the code or snippets, as they will have real-life implications for the security of your system. This is for educational purposes only, and we are not liable for what you do with your computers. 
 {: .prompt-danger }
