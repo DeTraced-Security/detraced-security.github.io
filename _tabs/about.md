@@ -28,6 +28,9 @@ A student and researcher with DeTraced Security, where she focuses on Cyber Thre
 ### Darkfly0213
 A graduate student majoring in Cybersecurity. I'm someone who is always eager to learn. I like hololive productions, and learning new things. I look forward to the new knowledge and findings that follow the DeTraced Security Research team.
 
+### M0ri 
+M0ri is a cybersecurity professional and DeTraced researcher, specializing in detection engineering and threat intelligence. M0ri loves teaching others and learning new techniques to detect. 
+
 ## CTF Team
 ### DonutMaster
 A middle-school student, currently working with and supporting DeTraced by participating in CTFs
