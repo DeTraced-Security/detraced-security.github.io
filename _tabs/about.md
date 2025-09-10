@@ -25,7 +25,7 @@ A girl who just happens to slip into cyber security and some how is doing fine w
 ### Slavetomints
 A student and researcher with DeTraced Security, where she focuses on Cyber Threat Intelligence. A Ruby enthusiast, she enjoys building small tools that connect her programming interests with real-life applications. She shares her learning journey on her blog so she can see how far she has come since the beginning.
 
-### Darkfly0213
+### Z
 A graduate student majoring in Cybersecurity. I'm someone who is always eager to learn. I like hololive productions, and learning new things. I look forward to the new knowledge and findings that follow the DeTraced Security Research team.
 
 ### M0ri 
