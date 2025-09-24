@@ -31,6 +31,10 @@ A graduate student majoring in Cybersecurity. I'm someone who is always eager to
 ### M0ri 
 M0ri is a cybersecurity professional and DeTraced researcher, specializing in detection engineering and threat intelligence. M0ri loves teaching others and learning new techniques to detect. 
 
+### brain.dmg
+
+Ex-MSP, ex-IR, ex-SOC, current MacOS researcher working vendor side, and cannot wait to quit cyber forever and open a queer coffee shop. Specializations include incident response, detection engineering, threat hunting, threat intel, and being cynical. She supports DeTraced by being the personality hire, oh and she may or may not have a lot of valuable real world cybersecurity experience (See: cynical). 
+
 ## CTF Team
 ### DonutMaster
 A middle-school student, currently working with and supporting DeTraced by participating in CTFs
