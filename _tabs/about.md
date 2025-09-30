@@ -39,4 +39,4 @@ A middle-school student, currently working with and supporting DeTraced by parti
 "just a teammate"
 
 # Former Researchers
-- darkfly0213
+- [darkfly0213](https://github.com/darkfly02131) (June 2025 - September 2025)
