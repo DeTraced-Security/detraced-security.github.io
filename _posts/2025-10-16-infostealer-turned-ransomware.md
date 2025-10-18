@@ -90,7 +90,7 @@ Some sites remain active as we work to take them down, but most have been catego
 
 ## Indicators of Compromise
 
-*For the full list of IOCs and YARA rules, please check out [DeTraced-Security/detection-rules](https://github.com/DeTraced-Security/detection-rules)*
+*For the full list of IOCs and YARA rules, please check out [DeTraced-Security/detection-rules](https://github.com/DeTraced-Security/detection-rules/tree/main/groups/betray)*
 
 ### RetracFix Sample:
 
