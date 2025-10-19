@@ -151,25 +151,9 @@ This malware was made for Minecraft users, so in addition to general system cont
 	- `cookiehelp`, which gives a step-by-step guide on how to exploit stolen cookies
 	- `logincookiehelp`, which explains how to stay secure if you suspect you've been a victim. An interesting thing to include in this program.
 
-### YARA Detection Rule
+## Indicators of Compromise
 
-```
-rule MinecraftRat
-{
-    meta:
-        description = "Detects known RAT based on Discord and ChatTriggers behavior"
-        author = "DeTraced Security"
-        reference = "https://detraced.org"
-    strings:
-        $url = "hst.sh/raw/"
-        $regkey = "DisableShutdown"
-        $vbscript = "{CAPSLOCK}"
-        $powershell = "SetCursorPos"
-    condition:
-        all of them
-}
-```
-{: file="rule.yara" }
+*For the full list of IOCs and YARA rules, please check out [DeTraced-Security/detection-rules](https://github.com/DeTraced-Security/detection-rules/tree/main/malware/chattriggers-rat)*
 
 ### Hashes
 
@@ -183,7 +167,7 @@ rule MinecraftRat
 | SHA-512   | 1f7c732e6903fabf985fafe90b628c4dcd5b96b92807b83420b8d1bab4de91267508e33ca0ad1402ba200159a2d8c411227fd9265a5ae3b779318f9928bce3b8 |
 
 
-### input_lock.vbs
+## input_lock.vbs
 ```vb
 Set WShell = CreateObject("WScript.Shell")
 
