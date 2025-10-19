@@ -124,3 +124,6 @@ cf5005ebdc43ad19863b701025a4279b  ValexUpdater.exe
 45bb4c63b0badff7721d2012b6482073  verbal.exe
 fe5c839be7074513d2be80356e807fba  wcarrpt.bat
 ```
+
+> Want to keep up with the DeTraced team? Come join our Discord [here!](https://discord.gg/ahecAvxwhh)
+{: .prompt-info }

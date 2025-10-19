@@ -199,6 +199,9 @@ Wend
 ## Conclusion
 This malware shows the capabilities hackers have by utilizing free infrastructure like Discord and Hastebin. RATs have become increasingly common in the Minecraft modding community, with projects like [Is This a RAT?](https://isthisarat.com) and [RatRater](https://ktibow.github.io/RatRater/) being used to help users find if the mod they downloaded is a RAT. Nonetheless, this malware highlights the dangers of downloading untrustworthy mods and running them with your game.
 
+> Want to keep up with the DeTraced team? Come join our Discord [here!](https://discord.gg/ahecAvxwhh)
+{: .prompt-info }
+
 ## References
 
 [^1]: https://en.wikipedia.org/wiki/Discord
