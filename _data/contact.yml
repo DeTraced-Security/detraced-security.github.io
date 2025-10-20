@@ -3,6 +3,10 @@
 - type: github
   icon: "fab fa-github"
 
+- type: discord
+  icon: "fa-brands fa-discord"
+  url: https://discord.gg/ahecAvxwhh
+
 # - type: twitter
 #   icon: "fa-brands fa-x-twitter"
 
