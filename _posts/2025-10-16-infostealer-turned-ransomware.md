@@ -27,6 +27,9 @@ image:
 ## Introduction
 On the 19th of August 2025, an individual –here-by referred to as “V”– requested help on an unnamed Cybersecurity-oriented Discord server, seeking assistance regarding the recovery of a ransomware-infected system. V had claimed to be searching for a supposed “fixer” for a cheat related to Fortnite’s Retrac. Upon further investigation and triaging of V’s system, we discovered the initial social engineering domain `hxxps[://]retracfix[.]vercel[.]app` and a corresponding YouTube video that directed victims to the aforementioned domain. The domain intends to serve malware under the guise of a “system fixer” and a patch for Project Retrac.
 
+![the infected system](/assets/img/infostealer-turned-ransomware/infected_system.jpg)
+*V's infected system* 
+
 ## Initial Evaluations
 During the initial investigation of the campaign, researchers at DeTraced identified the campaign as being led by a group of threat actors previously associated with the WebRAT malware. We are currently tracking this group as “Betray.” Upon identifying the potential threat actors, the investigation focused on the initial malware dropper, which was extracted from the domain linked to the infection.
 
