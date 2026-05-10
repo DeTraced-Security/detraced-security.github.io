@@ -3,18 +3,18 @@
 slavetomints:
   name: Slavetomints
   url: https://slavetomints.com
-akithecatearedmerc:
-  name: akithecatearedmerc
-  url: https://github.com/Zonbi-san
-likerofjazz: 
-  name: M0r1
-  url: https://www.youtube.com/watch?v=p3oUHn1gOAY&list=RDp3oUHn1gOAY&start_radio=1
 izzyboop:
   name: IzzyBoop
   url: https://github.com/IzzyBoop
-
-# Past Researchers (This is kept to not break any links that are already within blog posts
-
 tr4ceang3l:
   name: Tr4ceAng3l
   url: https://ashleyxir.xyz
+
+# Past Researchers (This is kept to not break any links that are already within blog posts
+
+akithecatearedmerc:
+  name: akithecatearedmerc
+  url: https://github.com/Zonbi-san
+likerofjazz:
+  name: M0r1
+  url: https://www.youtube.com/watch?v=p3oUHn1gOAY&list=RDp3oUHn1gOAY&start_radio=1
