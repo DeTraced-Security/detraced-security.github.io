@@ -16,11 +16,11 @@ researchers:
 - izzyboop
 ---
 
-This post will be a relatively informal update on the current status of Detraced, as well as an update on an upcoming project that we're excited to get public!
+This post will be a relatively informal update on the current status of DeTraced, as well as an update on an upcoming project that we're excited to get public!
 
-First off, I --Tr4ceAng3l-- would like to apologise for the absence of Detraced within the cybersecurity community, our team (including myself) have had quite a lot going on and had to step back from CTI and malware analysis. Despite this, I myself have made a personal report on malware isolated from Detraced and have decided to take on a project that should help better the availability of private, secure, mailing systems! This project has been dubbed as JAMS (Just Another Mail Server).
+First off, I --Tr4ceAng3l-- would like to apologise for the absence of DeTraced within the cybersecurity community, our team (including myself) have had quite a lot going on and had to step back from CTI and malware analysis. Despite this, I myself have made a personal report on malware isolated from DeTraced and have decided to take on a project that should help better the availability of private, secure, mailing systems! This project has been dubbed as JAMS (Just Another Mail Server).
 
-JAMS will be a Detraced project that we'll maintain indefinitely or until we run out of resources to do so.
+JAMS will be a DeTraced project that we'll maintain indefinitely or until we run out of resources to do so.
 
 So what can you expect from JAMS? Well, as the title suggests, we're taking on [Proton](https://proton.me)'s concept of secure and private emailing systems but bringing it to the FOSS community with the chance for users to self-host without the risk of corporate intervention, Gag Clause orders, etc. The expected features to come are as follows:
 
