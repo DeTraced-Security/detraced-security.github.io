@@ -29,6 +29,12 @@ Ex-MSP, ex-IR, ex-SOC, current MacOS researcher working vendor side, and cannot 
 ###### *(June 2025–October 2025, May 2026-Present)*
 Ex-Malware Developer, ex-Nurse, running purely on caffeine and adrenaline. Working on various projects ranging from exploitative tooling to machine learning research for psychiatric care and enhancing game AIs. I specialise in exploiting rare web vulnerabilities, tearing down malwares, bypassing iDevice access controls, and operations co-ordination. Can't wait to quit life and work at Izzy's coffee shop.
 
+### Ellath3may0
+###### *(May 2026-Present)*
+A student studying computer science & cybersecurity, researcher for DeTraced Security, sound engineer, and hobbyist competitive Mario Kart player, she
+likes dabbling in a little bit of everything. She might not be the most experienced, but she is always willing and excited to get her hands dirty. Make
+sure you don't let her near any important wires. She is always hungry.
+
 # Former Researchers
 - [darkfly0213](https://github.com/darkfly0213) (June 2025–September 2025)
 - [M0ri](https://www.youtube.com/watch?v=p3oUHn1gOAY&list=RDp3oUHn1gOAY&start_radio=1) (August 2025–Janurary 2026)
