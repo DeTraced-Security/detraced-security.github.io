@@ -7,8 +7,8 @@
   icon: "fa-brands fa-discord"
   url: https://discord.gg/ahecAvxwhh
 
-# - type: twitter
-#   icon: "fa-brands fa-x-twitter"
+- type: twitter
+  icon: "fa-brands fa-x-twitter"
 
 - type: email
   icon: "fas fa-envelope"
@@ -31,9 +31,9 @@
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
 #
-# - type: bluesky
-#   icon: 'fa-brands fa-bluesky'
-#   url: ''                   # Fill with your Bluesky profile link
+- type: bluesky
+  icon: 'fa-brands fa-bluesky'
+  url: 'https://bsky.app/profile/detraced-org.bsky.social'                   # Fill with your Bluesky profile link
 #
 # - type: reddit
 #   icon: 'fa-brands fa-reddit'
