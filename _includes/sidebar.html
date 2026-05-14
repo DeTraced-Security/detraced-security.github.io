@@ -54,7 +54,12 @@
     {% endunless %}
 
     <!-- the Socials + Email + RSS buttons -->
-    {% for entry in site.data.contact %}
+    {% assign regular_entries = site.data.contact | where_exp: "item", "item.type != 'email' and item.type != 'rss'" %}
+    {% assign email_entries = site.data.contact | where: "type", "email" %}
+    {% assign rss_entries = site.data.contact | where: "type", "rss" %}
+    {% assign ordered_entries = regular_entries | concat: email_entries | concat: rss_entries %}
+    
+    {% for entry in ordered_entries %}
       {%- assign url = null -%}
 
       {% case entry.type %}

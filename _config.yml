@@ -28,8 +28,8 @@ url: "https://detraced.org"
 github:
   username: DeTraced-Security # change to your GitHub username
 
-# twitter:
-#   username:  # change to your Twitter username
+twitter:
+  username:  DetracedSec # change to your Twitter username
 
 social:
   # Change to your full name.
