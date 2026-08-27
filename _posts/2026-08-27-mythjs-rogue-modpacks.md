@@ -1,7 +1,7 @@
 ---
 title: CurseJar - A MythJS Variant
 description: When Minecraft Modpacks Go Rogue
-date: 2026-08-18
+date: 2026-08-27
 categories:
   - cybersecurity
   - Research
