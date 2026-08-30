@@ -10,7 +10,12 @@ tags:
   - RAT
   - Malware
   - Phishing
-author: tr4ceang3l, slavetomints, izzyboop
+authors: 
+- tr4ceang3l
+researchers: 
+- slavetomints
+- tr4ceang3l
+- izzyboop
 comments: false
 published: true
 ---
