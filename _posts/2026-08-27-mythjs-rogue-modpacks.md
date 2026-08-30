@@ -51,7 +51,7 @@ Following the compromise, both victims had experienced account access issues acr
 | Primary Target Population | Gaming, Piracy-Adjacent Users                                               |
 | Observed Victim Impact    | Discord Account Compromise, Extortion                                       |
 | C2 - Exfiltration         | Discord Webhook, Potential Telegram Backup                                  |
-| Analysis Methods          | Static Analysis, Dynamic Analyis, MiTM Inspection, Victim Interviews, OSINT |
+| Analysis Methods          | Static Analysis, Dynamic Analysis, MiTM Inspection, Victim Interviews, OSINT |
 
 # Initial Infection
 The malware’s infection method is quite trivial, it relies on an obvious social engineering method orienting around utilising hijacked accounts to deliver a ZIP file containing a malicious binary – generally masking as a Mod or a Game – and trying to convince the receiver that it’s safe. In the case for this specific strain, the threat actor had went as far as to trying to show that the ZIP file was safe by going through the files with the user and even “running” the malware on their own device, with the mod they’re pretending to be.
